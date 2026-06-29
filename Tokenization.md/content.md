@@ -84,4 +84,5 @@ For tokenization, yours might be:
 ✅ Embeddings are the next stage after tokenization.
 
 
-next topis will be embiddings 
+next topic will be embiddings 
+go to the next context.
