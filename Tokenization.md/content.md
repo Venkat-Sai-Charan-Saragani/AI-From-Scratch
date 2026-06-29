@@ -82,3 +82,6 @@ For tokenization, yours might be:
 ✅ The model processes numerical token IDs and embeddings.
 ❌ I thought tokenization included embeddings.
 ✅ Embeddings are the next stage after tokenization.
+
+
+next topis will be embiddings 
