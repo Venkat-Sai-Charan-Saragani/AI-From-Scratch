@@ -14,14 +14,14 @@ The embeddings tell the model what "dog", "cat", and "chased" mean, but they don
 
 ## Interview questions
 
-What is positional information?
+## What is positional information?
 
 Positional information tells the model the position of each token in the sequence.
 
-Why do we need positional information?
+## Why do we need positional information?
 
 Because the transformer's self-attention mechanism doesn't inherently know the order of tokens. Positional information allows the model to distinguish between sentences with the same words in different orders.
 
-When is positional information added?
+## When is positional information added?
 
 After the embedding layer and before the embeddings are passed into the first transformer block.
